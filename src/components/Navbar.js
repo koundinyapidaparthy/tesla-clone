@@ -54,7 +54,7 @@ const Navbar = () => {
     }
     return (
         <NavbarHome>
-            <HomeE1 href="/">
+            <HomeE1 >
                 <img src={logo1} alt="TeslaHomeLogo" />
             </HomeE1>
             <HomeE2>
