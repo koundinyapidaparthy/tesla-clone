@@ -2,7 +2,7 @@
   "name": "tesla-clone",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://myusername.github.io/my-app",
+  "homepage": "https://koundinyapidaparthy.github.io/tesla-clone",
   "dependencies": {
     "@material-ui/icons": "^4.11.2",
     "@material-ui/utils": "^4.11.2",
