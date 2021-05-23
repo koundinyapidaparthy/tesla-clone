@@ -6,9 +6,9 @@ function App() {
   return (
     <>
      <Router>
+       <Navbar />   
        <Switch>
          <Route exact path="/" >
-       <Navbar />   
             <TeslaHome />
          </Route>
        </Switch>
