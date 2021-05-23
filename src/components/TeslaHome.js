@@ -112,9 +112,7 @@ const HomeMain =styled.div`
     overflow-y: scroll; 
     scroll-behavior: smooth;
     scroll-snap-type: y mandatory;
-    @media only screen and (max-width:768px){
-        height:99vh;
-    }
+    
     `;
 const MODELS=styled.div`
     background-size:cover;
@@ -186,6 +184,7 @@ const  Arrow=styled.div`
 
         }
     }
+    
 `; 
 const UPPER=styled.div`
 
