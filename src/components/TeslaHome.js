@@ -121,7 +121,7 @@ const MODELS=styled.div`
     width:100%;
     height:100vh;
     scroll-snap-align:center;
-    
+    background-position: center;
     `;
 
 
