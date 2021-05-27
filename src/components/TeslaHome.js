@@ -152,36 +152,17 @@ const  Arrow=styled.div`
         transform:rotate(90deg);
     }
     @keyframes animate{
-        0%{
+        0%,50%,90%,100%{
             margin-top:-3vh;
         }
-        20%{
+        20%,40%{
             margin-top:-2vh;
         }
-        30%{
-            margin-top:-1vh;
-        }
-        40%{
-            margin-top:-2vh;
-        }
-        50%{
-            margin-top:-3vh;
-        }
-        60%{
+        30%,60%,80%{
             margin-top:-1vh;
         }
         70%{
             margin-top:1vh;
-        }
-        80%{
-            margin-top:-1vh;
-        }
-        90%{
-            margin-top:-3vh;
-        }
-        100%{
-            margin-top:-3vh;
-
         }
     }
     
